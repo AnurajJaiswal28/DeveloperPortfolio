@@ -1,0 +1,19 @@
+# Backup files
+backup/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db

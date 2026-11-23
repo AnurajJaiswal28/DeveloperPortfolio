@@ -1,0 +1,25 @@
+NUMBER SYSTEM CONVERSIONS
+
+1. Decimal to Binary
+(25)10 = (11001)2
+
+2. Binary to Decimal
+(1010)2 = (10)10
+
+3. Decimal to Octal
+(25)10 = (31)8
+
+4. Decimal to Hexadecimal
+(255)10 = (FF)16
+
+5. Hexadecimal to Decimal
+(1A)16 = (26)10
+
+6. Octal to Decimal
+(17)8 = (15)10
+
+7. Binary to Octal
+(101101)2 = (55)8
+
+8. Binary to Hexadecimal
+(11111111)2 = (FF)16
