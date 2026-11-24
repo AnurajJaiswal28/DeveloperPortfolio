@@ -34,6 +34,10 @@ throughout the semester.
 - Learning roadmap
 
 ## Author
-Anuraj Jaiswal
+**Name:** Anuraj Jaiswal
 
-GitHub: https://github.com/AnurajJaiswal28
+**GitHub:** https://github.com/AnurajJaiswal28
+
+**LinkedIn:** https://www.linkedin.com/in/anuraj-jaiswal-8029a6451/
+
+**Live Portfolio:** https://anurajjaiswal28.github.io/DeveloperPortfolio/
